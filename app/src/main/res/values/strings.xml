@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name = "app_title">Temperature Converter</string>
+    <string name = "fahrenheit_button">F</string>
+    <string name = "celsius_button">C</string>
+    <string name = "converted_text"> Converted: </string>
+</resources>
